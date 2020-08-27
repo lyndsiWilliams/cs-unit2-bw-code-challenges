@@ -11,7 +11,7 @@
             "program": "${file}",
             "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
-            "args": ["implement_queue_using_stacks.py"]
+            "args": ["uncover_spy.py"]
         }
     ]
 }
